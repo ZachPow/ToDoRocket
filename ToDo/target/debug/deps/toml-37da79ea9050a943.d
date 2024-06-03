@@ -1,0 +1,13 @@
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\libtoml-37da79ea9050a943.rmeta: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\map.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\value.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\de.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\ser.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\macros.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\edit.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\fmt.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\table.rs
+
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\toml-37da79ea9050a943.d: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\map.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\value.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\de.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\ser.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\macros.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\edit.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\fmt.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\table.rs
+
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\lib.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\map.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\value.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\de.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\ser.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\macros.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\edit.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\fmt.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.13\src\table.rs:

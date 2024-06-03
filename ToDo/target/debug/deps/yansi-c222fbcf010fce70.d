@@ -1,0 +1,14 @@
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\libyansi-c222fbcf010fce70.rmeta: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\macros.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\windows.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\attr_quirk.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\style.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\color.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\paint.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\global.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\condition.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\set.rs
+
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\yansi-c222fbcf010fce70.d: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\macros.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\windows.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\attr_quirk.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\style.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\color.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\paint.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\global.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\condition.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\set.rs
+
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\lib.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\macros.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\windows.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\attr_quirk.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\style.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\color.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\paint.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\global.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\condition.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-1.0.1\src\set.rs:

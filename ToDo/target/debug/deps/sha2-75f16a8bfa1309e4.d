@@ -1,0 +1,13 @@
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\libsha2-75f16a8bfa1309e4.rmeta: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs
+
+D:\coding\rust\ToDoRocket\ToDo\target\debug\deps\sha2-75f16a8bfa1309e4.d: C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs
+
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs:
+C:\Users\Zach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs:
